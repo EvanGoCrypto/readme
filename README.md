@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://github.com/ThirdEyeTeam/readme/logo400x400.png?raw=true" height="200" />
+  <img src="https://github.com/ThirdEyeTeam/readme/blob/master/logo400x400.png?raw=true" height="200" />
 </p>
-
-### Pre
 
 We moved all repositories to private until we launch alfa. Stay tuned. If you have some questions please write to **pi@forseti.im**
 
