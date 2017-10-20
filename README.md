@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ThirdEyeTeam/readme/images/logo400x400.png?raw=true" height="200" />
+  <img src="https://github.com/ThirdEyeTeam/readme/logo400x400.png?raw=true" height="200" />
 </p>
 
 ### Pre
